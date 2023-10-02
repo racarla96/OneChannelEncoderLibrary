@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map for TFMPlus
+# Date: 20200701
+# Note: Separate terms with TABs
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TriggerCounter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+getCount	KEYWORD2
+clearCount	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
