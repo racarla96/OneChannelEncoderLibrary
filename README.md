@@ -6,8 +6,8 @@ The **Trigger Counter Library** is an Arduino library that abstracts the functio
 
 - Edge counting, for example, from a single-channel encoder.
 - Function to clear the edge counter.
-- Interrupts enabling and disabling to prevent race conditions.
-- See [Arduino Documentation of attachInterrupt() to change counts](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
+- Interrupts enabling and disabling to prevent race conditions when clear and get counts.
+- Can you modify the trigger condition when RISING or FALLING like [(Arduino Documentation) attachInterrupt()](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 
 ## Installation
 
